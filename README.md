@@ -2,7 +2,22 @@
 
 **Authors**: Guojun Lu, Haibo Yu, Zehao Yan, and Yun Xue
 
-This repository contains code, models, and description for our paper ["Commonsense Knowledge Graph-based Adapter for Aspect-level Sentiment Classification"]().
+This repository contains code, models, and description for our paper ["Commonsense Knowledge Graph-based Adapter for Aspect-level Sentiment Classification"](https://doi.org/10.1016/j.neucom.2023.03.002).
+
+If you find our paper and resources useful, please kindly leave a star and cite our papers. Thanks!
+```
+@article{LU202367,
+title = {Commonsense knowledge graph-based adapter for aspect-level sentiment classification},
+journal = {Neurocomputing},
+volume = {534},
+pages = {67-76},
+year = {2023},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2023.03.002},
+author = {Guojun Lu and Haibo Yu and Zehao Yan and Yun Xue},
+```
+
+
 
 The code is still in the process of sorting out. You can open an issue if you have any questions.
 
